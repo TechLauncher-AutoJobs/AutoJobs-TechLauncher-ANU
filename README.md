@@ -11,6 +11,7 @@ Administrative
 
 Management 
 - 📒 [Documentation (project wiki, notes, etc)](https://github.com/SuoweiHu/AutoJobs-TechLauncher-ANU/wiki)
+- 🖋️ [Meeting Notes (client/team meeting both)](https://github.com/SuoweiHu/AutoJobs-TechLauncher-ANU/wiki)
 - 🚀 [Kanban Board (project board/backlog/story board)](https://github.com/users/SuoweiHu/projects/1/views/1)
 
 Communication
