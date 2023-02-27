@@ -10,7 +10,7 @@ Automated Job Finder, or Auto Job (The Project) is a non-profit initiative that 
 Apart from directly serving individuals, the Project seeks to collaborate with jurisdictions and universities to establish smart connection between university students and government job markets. Although the initial scope is mostly on public servant positions, the Project will scale to the general job market and bring benefit to the whole Australian labour force.
 
 
-## Details
+## Contact & Project Details
 
 About IP: This project is not for profit, and its IP will be shared with all participants.
 
