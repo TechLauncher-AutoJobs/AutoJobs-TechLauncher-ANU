@@ -24,6 +24,14 @@ Audit GitHub Account
 - if you wish to see every detail of AutoJob's progress, please contact one of our friendly spokespersons for password:
 - github email: techlauncher.autojobs@gmail.com
 
+## Student this Semester (2023 Sem1)
+
+- Xueer Zhangsong(Spokesperson): u7079320@anu.edu.au
+- Suowei Hu(Spokesperson): u6966459@anu.edu.au
+- Yuxiao Liu: u7371990@anu.edu.au
+- Xiaoting Ma: u7433915@anu.edu.au
+- Kent Leung: u6419954@anu.edu.au
+
 
 ## Project Overview
 
@@ -72,10 +80,4 @@ What will students learn?:
 - SQL/No-SQL Database
 - Azure/AWS
 
-## Student this Semester (2023 Sem1)
 
-- Xueer Zhangsong(Spokesperson): u7079320@anu.edu.au
-- Suowei Hu(Spokesperson): u6966459@anu.edu.au
-- Yuxiao Liu: u7371990@anu.edu.au
-- Xiaoting Ma: u7433915@anu.edu.au
-- Kent Leung: u6419954@anu.edu.au
