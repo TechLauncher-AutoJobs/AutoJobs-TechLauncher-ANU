@@ -6,7 +6,7 @@
 
 
 Administrative
-- [Landing Page - PENDING]()
+- [Landing Page - AWAITING EDIT](https://github.com/SuoweiHu/AutoJobs-TechLauncher-ANU/wiki/Landing-Page)
 - [IP Agreement - AWAITING APPROVAL](https://docs.google.com/document/d/1Fy1RME6irIdaZHz1jwlvkazG_BIYQ3dWWcGJSCx-Md4/edit?usp=sharing)
 
 Management 
