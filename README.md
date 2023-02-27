@@ -1,5 +1,19 @@
 # AutoJobs-TechLauncher-ANU
----
+
+
+
+## Important Link
+
+[Kanban Board (project board/backlog/story board)] (https://github.com/users/SuoweiHu/projects/1/views/1)
+[Discord Channel (invitation link)](https://discord.gg/MkVwnB5e)
+[Landing Page - PENDING] ()
+
+Audit GitHub Account:
+- if you wish to see every detail of AutoJob's progress, please contact one of our friendly spokespersons for password:
+ - Xueer Zhangsong(Spokesperson): u7079320@anu.edu.au
+ - Suowei Hu(Spokesperson): u6966459@anu.edu.au
+- github email: techlauncher.autojobs@gmail.com
+
 
 ## Overview
 
