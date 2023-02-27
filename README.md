@@ -4,9 +4,15 @@
 
 ## Important Link
 
-[Kanban Board (project board/backlog/story board)] (https://github.com/users/SuoweiHu/projects/1/views/1)
+[Landing Page - PENDING]()
+
+[IP Agreement - AWAITING APPROVAL](https://docs.google.com/document/d/1Fy1RME6irIdaZHz1jwlvkazG_BIYQ3dWWcGJSCx-Md4/edit?usp=sharing)
+
+[Documentation (project wiki, notes, etc)](https://github.com/SuoweiHu/AutoJobs-TechLauncher-ANU/wiki)
+
+[Kanban Board (project board/backlog/story board)](https://github.com/users/SuoweiHu/projects/1/views/1)
+
 [Discord Channel (invitation link)](https://discord.gg/MkVwnB5e)
-[Landing Page - PENDING] ()
 
 Audit GitHub Account:
 - if you wish to see every detail of AutoJob's progress, please contact one of our friendly spokespersons for password:
