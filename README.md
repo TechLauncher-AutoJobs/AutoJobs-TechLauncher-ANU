@@ -25,7 +25,7 @@ Audit GitHub Account
 - github email: techlauncher.autojobs@gmail.com
 
 
-## Overview
+## Project Overview
 
 Automated Job Finder, or Auto Job (The Project) is a non-profit initiative that thrives to use simple technology to make big impact. Statistics shows that public servants change positions every 18 month, and sample survey confirms public servants take manual position search on weekly basis. Starting with serving public servants, the Project aims to replace such manual search with a customised weekly report on the most recent job market. Unlike Seek/Indeed, the Project will provide much more specific customisation including position classification, department, security clearance requirement, etc.
 
@@ -71,3 +71,11 @@ What will students learn?:
 - HTTP & HTML
 - SQL/No-SQL Database
 - Azure/AWS
+
+## Student this Semester (2023 Sem1)
+
+- Xueer Zhangsong(Spokesperson): u7079320@anu.edu.au
+- Suowei Hu(Spokesperson): u6966459@anu.edu.au
+- Yuxiao Liu: u7371990@anu.edu.au
+- Xiaoting Ma: u7433915@anu.edu.au
+- Kent Leung: u6419954@anu.edu.au
