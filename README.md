@@ -1,7 +1,5 @@
 # AutoJobs-TechLauncher-ANU
-
-https://redmine.cecs.anu.edu.au/redmine/projects/automated-job-finder
-
+---
 
 ## Overview
 
@@ -12,33 +10,30 @@ Apart from directly serving individuals, the Project seeks to collaborate with j
 
 ## Contact & Project Details
 
+Redmine: https://redmine.cecs.anu.edu.au/redmine/projects/automated-job-finder
 About IP: This project is not for profit, and its IP will be shared with all participants.
-
 About Client: The client is an ANU alumnus who attended TechLauncher as student 3 years ago and marked HD :)
-
 Contact: jun.zhao@act.gov.au
-
 Group-or-Individual: Group
 Location: Remote
 Client Type: Industry
 References:
-ACTPS Job Website: https://www.jobs.act.gov.au/
-APS Job Website: https://www.apsjobs.gov.au/s/
-
-What will students learn?:
-Project Management
-Stakeholder Engagement
-Web Crawling
-Database Management
-CI/CD
-Azure/AWS
-
-Knowledge and skills required?:
-Project Management
-Scripting Language (Python, etc)
-HTTP & HTML
-SQL/No-SQL Database
-Azure/AWS
-
+- ACTPS Job Website: https://www.jobs.act.gov.au/
+- APS Job Website: https://www.apsjobs.gov.au/s/
 Project State: Proposed
 
+## Skillset Involved 
+
+What will students learn?:
+- Project Management
+- Stakeholder Engagement
+- Web Crawling
+- Database Management
+- CI/CD
+- Azure/AWS
+ Knowledge and skills required?:
+- Project Management
+ Scripting Language (Python, etc)
+- HTTP & HTML
+- SQL/No-SQL Database
+- Azure/AWS
