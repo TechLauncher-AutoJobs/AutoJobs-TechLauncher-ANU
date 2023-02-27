@@ -10,8 +10,8 @@ Administrative
 - [IP Agreement - AWAITING APPROVAL](https://docs.google.com/document/d/1Fy1RME6irIdaZHz1jwlvkazG_BIYQ3dWWcGJSCx-Md4/edit?usp=sharing)
 
 Management 
-- [Documentation (project wiki, notes, etc)](https://github.com/SuoweiHu/AutoJobs-TechLauncher-ANU/wiki)
-- [Kanban Board (project board/backlog/story board)](https://github.com/users/SuoweiHu/projects/1/views/1)
+- 📒 [Documentation (project wiki, notes, etc)](https://github.com/SuoweiHu/AutoJobs-TechLauncher-ANU/wiki)
+- 🚀 [Kanban Board (project board/backlog/story board)](https://github.com/users/SuoweiHu/projects/1/views/1)
 
 Communication
 - Discord Channel [(invitation link)](https://discord.gg/MkVwnB5e)
