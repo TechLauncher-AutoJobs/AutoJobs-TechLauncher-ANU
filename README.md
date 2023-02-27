@@ -14,7 +14,7 @@ Management
 - [Kanban Board (project board/backlog/story board)](https://github.com/users/SuoweiHu/projects/1/views/1)
 
 Communication
-- [Discord Channel (invitation link)](https://discord.gg/MkVwnB5e)
+- Discord Channel [(invitation link)](https://discord.gg/MkVwnB5e)
 - Jun Zhao(Client): jun.zhao@act.gov.au
 - Xueer Zhangsong(Spokesperson): u7079320@anu.edu.au
 - Suowei Hu(Spokesperson): u6966459@anu.edu.au
