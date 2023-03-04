@@ -1,6 +1,8 @@
+
+
 # AutoJobs-TechLauncher-ANU
 
-
+[TOC]
 
 ## Important Link
 
@@ -9,21 +11,44 @@ Administrative
 - [Landing Page - AWAITING EDIT](https://github.com/SuoweiHu/AutoJobs-TechLauncher-ANU/wiki/Landing-Page)
 - [IP Agreement - AWAITING APPROVAL](https://docs.google.com/document/d/1Fy1RME6irIdaZHz1jwlvkazG_BIYQ3dWWcGJSCx-Md4/edit?usp=sharing)
 
+
+
+Problemtization 
+
+-   [Overview](Problemtisation.md)
+-   [Project Client Map](Problemtisation.md)
+-   [Empathy Map Canvas](Problemtisation.md)
+-   [Project Client Map](Problemtisation.md)
+
+
+
 Management 
+
 - 📒 [Documentation (project wiki, notes, etc)](https://github.com/SuoweiHu/AutoJobs-TechLauncher-ANU/wiki)
 - 🖋️ [Meeting Notes (client/team meeting both)](https://github.com/SuoweiHu/AutoJobs-TechLauncher-ANU/wiki)
 - 🚀 [Kanban Board (project board/backlog/story board)](https://github.com/users/SuoweiHu/projects/1/views/1)
 
+
+
 Communication
+
 - Discord Channel [(invitation link)](https://discord.gg/MkVwnB5e)
 - Jun Zhao(Client): jun.zhao@act.gov.au
 - Xueer Zhangsong(Spokesperson): u7079320@anu.edu.au
 - Suowei Hu(Spokesperson): u6966459@anu.edu.au
 
 
+
 Audit GitHub Account
+
 - if you wish to see every detail of AutoJob's progress, please contact one of our friendly spokespersons for password:
 - github email: techlauncher.autojobs@gmail.com
+
+
+
+
+
+
 
 ## Student this Semester 
 
@@ -35,11 +60,13 @@ Audit GitHub Account
 - Kent Leung: u6419954@anu.edu.au
 
 
+
 ## Project Overview
 
 Automated Job Finder, or Auto Job (The Project) is a non-profit initiative that thrives to use simple technology to make big impact. Statistics shows that public servants change positions every 18 month, and sample survey confirms public servants take manual position search on weekly basis. Starting with serving public servants, the Project aims to replace such manual search with a customised weekly report on the most recent job market. Unlike Seek/Indeed, the Project will provide much more specific customisation including position classification, department, security clearance requirement, etc.
 
 Apart from directly serving individuals, the Project seeks to collaborate with jurisdictions and universities to establish smart connection between university students and government job markets. Although the initial scope is mostly on public servant positions, the Project will scale to the general job market and bring benefit to the whole Australian labour force.
+
 
 
 ## Contact & Project Details
@@ -81,5 +108,4 @@ What will students learn?:
 - HTTP & HTML
 - SQL/No-SQL Database
 - Azure/AWS
-
 
