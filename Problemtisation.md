@@ -22,7 +22,7 @@
 
 ## Project Client Map
 
-![2023.03.04 - 01_07_10 Project Client Map](assets/2023.03.04%20-%2001_07_10%20Project%20Client%20Map.jpg)
+![2023.03.04 - 01_07_10 Project Client Map](2023.03.04-Saturday-01PM-003533-CleanShot.jpg)
 
 
 
