@@ -9,7 +9,8 @@
 
 Administrative
 - [Landing Page - AWAITING EDIT](https://github.com/SuoweiHu/AutoJobs-TechLauncher-ANU/wiki/Landing-Page)
-- [IP Agreement - AWAITING APPROVAL](https://docs.google.com/document/d/1Fy1RME6irIdaZHz1jwlvkazG_BIYQ3dWWcGJSCx-Md4/edit?usp=sharing)
+- [IP Agreement - ORIGINAL TEMPLATE](https://docs.google.com/document/d/1Fy1RME6irIdaZHz1jwlvkazG_BIYQ3dWWcGJSCx-Md4/edit?usp=sharing)
+- [IP Agreement - AWAITING APPROVAL](https://anu365-my.sharepoint.com/:w:/g/personal/u7079320_anu_edu_au/Ec_m_HdITn1Ksv5iN3vBCI4BmFc40lY80G_hN-8z06wOJA?rtime=py7FIlkc20g)
 
 Management 
 - 🖋️ [Meeting Notes (client/team meeting both)](https://github.com/SuoweiHu/AutoJobs-TechLauncher-ANU/wiki)
